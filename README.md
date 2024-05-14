@@ -22,10 +22,10 @@
 
 | Role | Email | Password |
 |---|---|---|
-
 | Customer | jackie@gmail.com | passwordstu |
 | Staff | 1 | password123 |
 | Kitchen | 10 | davidpa2ss |
+| Admin | 99999 | 12345 |
 
 
 
