@@ -1,7 +1,5 @@
 ## My Bubble Time Cafe POS and Website
 
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/homehomepage.png?raw=true)
-
 
 
 **Features:**
