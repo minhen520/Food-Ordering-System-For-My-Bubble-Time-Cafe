@@ -32,12 +32,12 @@
 
 
 ## Screenshots
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/homehomepage.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/Login.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/postable.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/orderitembeforepay.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/cashpaid.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/cardpayment.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/kitchenpanel.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/statisticspanel.png?raw=true)
+![alt text](https://github.com/minhen520/Food-Ordering-System-For-My-Bubble-Time-Cafe/blob/master/RestaurantProjectImages/homehomepage.png?raw=true)
+![alt text](https://github.com/minhen520/Food-Ordering-System-For-My-Bubble-Time-Cafe/blob/master/RestaurantProjectImages/Login.png?raw=true)
+![alt text](https://github.com/minhen520/Food-Ordering-System-For-My-Bubble-Time-Cafe/blob/master/RestaurantProjectImages/postable.png?raw=true)
+![alt text](https://github.com/minhen520/Food-Ordering-System-For-My-Bubble-Time-Cafe/blob/master/RestaurantProjectImages/orderitembeforepay.png.png?raw=true)
+![alt text](https://github.com/minhen520/Food-Ordering-System-For-My-Bubble-Time-Cafe/blob/master/RestaurantProjectImages/cashpaid.png.png?raw=true)
+![alt text](https://github.com/minhen520/Food-Ordering-System-For-My-Bubble-Time-Cafe/blob/master/RestaurantProjectImages/cardpayment.png?raw=true)
+![alt text](https://github.com/minhen520/Food-Ordering-System-For-My-Bubble-Time-Cafe/blob/master/RestaurantProjectImages/kitchenpanel.png?raw=true)
+![alt text](https://github.com/minhen520/Food-Ordering-System-For-My-Bubble-Time-Cafe/blob/master/RestaurantProjectImages/statisticspanel.png?raw=true)
 
